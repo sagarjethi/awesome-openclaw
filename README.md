@@ -42,7 +42,7 @@ OpenClaw runs locally on your machine, connects to 50+ services, and lets you ch
 >
 > **🔨 Building with OpenClaw?** Check [Skills & Plugins](#-skills--plugins) → [MCP Support](#-mcp-model-context-protocol) → [Community Projects](#-community-projects)
 >
-> **📖 Want the backstory?** Read [Project Timeline](#-project-timeline) → [Articles & Media](#-articles--media)
+> **📖 Want the backstory?** Read [Project Timeline](#-project-timeline) → [YouTube & Podcasts](#-youtube--podcasts) → [Articles & Media](#-articles--media)
 
 ---
 
@@ -61,6 +61,8 @@ OpenClaw runs locally on your machine, connects to 50+ services, and lets you ch
 - [Security & Hardening](#-security--hardening)
 - [Community Projects](#-community-projects)
 - [Tutorials & Learning](#-tutorials--learning)
+- [YouTube & Podcasts](#-youtube--podcasts)
+- [News](#-news)
 - [Articles & Media](#-articles--media)
 - [Community & Events](#-community--events)
 - [Alternatives & Comparisons](#-alternatives--comparisons)
@@ -300,7 +302,7 @@ Skills are text-based capabilities you install to extend what your agent can do.
 | **Communication** | Drafting, scheduling | Email drafts, message scheduling |
 | **Research** | Web, documents, data | Web browsing, PDF summarization |
 | **Entertainment** | Media, music | Spotify control, media management |
-| **Storage** | Files, cloud sync | [Fast.io](https://fast.io/) (50 GB free cloud storage for agents) |
+| **Storage** | Files, cloud sync | [Fast.io](https://fast.io/) (workspaces for agentic teams) |
 | **Finance** | Trading, analysis | Crypto automation, financial data |
 
 ### Installing Skills
@@ -511,6 +513,82 @@ A critical vulnerability (CVSS 8.8) was disclosed January 30, 2026. An attacker-
 
 ---
 
+## 🎬 YouTube & Podcasts
+
+### Podcasts & Interviews (Peter Steinberger)
+
+| Episode | Host / Channel | Description |
+|---------|---------------|-------------|
+| [Lex Fridman Podcast #491](https://lexfridman.com/peter-steinberger-transcript/) | Lex Fridman | Deep dive — origin story, name-change drama, Moltbook, shipping code he doesn't read |
+| [How OpenClaw's Creator Uses AI to Run His Life](https://creatoreconomy.so/p/how-openclaws-creator-uses-ai-peter-steinberger) | Behind the Craft (Peter Yang) | Full demo — flight check-ins, smart home, security cameras, hot takes on MCPs |
+| [The creator of Clawd: "I ship code I don't read"](https://www.youtube.com/watch?v=8lF7HmQ_RgY) | The Pragmatic Engineer | 1h54m — Building like a full team using AI-centered workflows |
+| [Full Tutorial: Set Up Your 24/7 AI Employee](https://creatoreconomy.so/p/full-tutorial-set-up-your-247-ai-employee-clawd-molt) | Creator Economy | Quick 20-minute setup walkthrough |
+| [Master OpenClaw in 30 Minutes](https://creatoreconomy.so/p/master-openclaw-in-30-minutes-full-tutorial) | Creator Economy | Safe setup + 5 real use cases + persistent memory |
+
+### Tutorials & Walkthroughs
+
+| Video | Channel | Duration | Description |
+|-------|---------|:--------:|-------------|
+| [OpenClaw Full Tutorial for Beginners](https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/) | freeCodeCamp | ~55 min | Most comprehensive — install, memory, skills, WhatsApp, Docker sandboxing |
+| [ClawdBot: The most powerful AI tool I've ever used](https://www.youtube.com/watch?v=Qkqe-uRhQJE) | Alex Finn | 27:45 | 427K+ views — Complete setup, model selection, initial config |
+| [6 OpenClaw Use Cases That Could Change Your Life](https://www.youtube.com/@AlexFinn) | Alex Finn | — | Second brain, morning briefs, content factory with specialized agents |
+| [The self-hosted AI that Siri should have been](https://www.youtube.com/watch?v=SaWSPZoPX34) | WeWebShare | 42:15 | Full self-hosting setup tutorial |
+| [8 Practical Clawdbot Use Cases](https://www.youtube.com/watch?v=kFwzPJZoZoc) | Samin Yasar | 26:00 | Step-by-step practical use cases |
+| [How I Use Clawdbot to Run My Business 24/7](https://www.youtube.com/watch?v=YRhGtHfs1Lw) | Greg Isenberg | 30:00 | Business + personal life workflows |
+
+### Reviews & Analysis
+
+| Video | Channel | Duration | Description |
+|-------|---------|:--------:|-------------|
+| [The wild rise of OpenClaw](https://www.youtube.com/watch?v=ssYt09bCgUY) | Fireship | ~10 min | Fast-paced explainer — history, architecture, Telegram demo |
+| [I Played with Clawdbot all Weekend](https://www.youtube.com/watch?v=MUDvwqJWWIw) | Matthew Berman | 21:13 | 293K+ views — Hands-on weekend review |
+| [Why People Are Freaking Out About Clawdbot](https://www.youtube.com/watch?v=GLwTSlRn6-k) | Matt Wolfe | 37:36 | 198K+ views — Deep analysis including Moltbook investigation |
+| [Clawdbot/OpenClaw Clearly Explained](https://www.youtube.com/watch?v=U8kXfk8enrY) | Greg Isenberg | 35:14 | 136K+ views — Cuts through the hype with practical guidance |
+| [Clawd Bot Explained In 5 mins (No Hype)](https://www.youtube.com/watch?v=_6D4shWDnEc) | Eric Before | 5:56 | 110K+ views — Concise no-nonsense explainer |
+| [Clawdbot Review: Is It Actually Worth It?](https://www.youtube.com/watch?v=ktU0ABfrfM8) | Antoine Rousseaux | 14:03 | Honest assessment of real-world utility |
+| [63 insane ClawdBot use cases](https://www.youtube.com/watch?v=s-dpN0zEUjk) | Duncan Rogoff | 14:19 | Exhaustive use case roundup |
+
+### This Week in Startups (OpenClaw Series)
+
+| Episode | Title | Highlights |
+|---------|-------|------------|
+| E2242 | How OpenClaw Is Rewriting Team Workflows | Rahul Sood on team transformation |
+| [E2246](https://thisweekinstartups.com/episodes/Rsmm0zxeFk9) | We built OpenClaw Ultron to replace 20 people | Producer Oliver demos OpenClaw's self-built control panel |
+| [E2247](https://thisweekinstartups.com/episodes/5NFSWkyea0A) | Does Clawdbot Need Eyes? | Vision Claw on Meta Ray Bans, agent brain trust, sushi-ordering skill |
+| [E2248](https://thisweekinstartups.com/episodes/3KBUBiuN8iR) | How 3 Founders Are Building on OpenClaw | Three founders showcase their OpenClaw builds |
+| E2250 | OpenClaw is Our Friend Now | Antfarm agent team, Clawra AI girlfriend, RentAHuman marketplace |
+
+### Official / Community
+
+| Video | Channel | Description |
+|-------|---------|-------------|
+| [Open Source Friday with Clawdbot](https://www.youtube.com/watch?v=1iCcUjnAIOM) | GitHub | 1h18m — Official GitHub stream exploring the project |
+
+---
+
+## 📰 News
+
+A daily log of OpenClaw developments. Includes full naming history (Clawdbot → Moltbot → OpenClaw). **[See full news archive →](NEWS.md)**
+
+### Latest Headlines
+
+| Date | Headline | Source |
+|------|----------|--------|
+| Feb 16, 2026 | AI experts question OpenClaw's security model and prompt injection risks | [TechCrunch](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/) |
+| Feb 16, 2026 | OpenClaw demand creates Apple Mac shortage (6 days → 6 weeks delivery) | [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks) |
+| Feb 15, 2026 | Peter Steinberger joins OpenAI; OpenClaw moves to open-source foundation | [TechCrunch](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) |
+| Feb 13, 2026 | Baidu integrates OpenClaw into search app for 700M users | [CNBC](https://www.cnbc.com/2026/02/13/baidu-openclaw-ai-search-app-integration-china-lunar-new-year.html) |
+| Feb 12, 2026 | v2026.2.12 released — fixes 40+ security vulnerabilities | [CyberSecurityNews](https://cybersecuritynews.com/openclaw-2026-2-12-released/) |
+| Feb 12, 2026 | Fortune investigation: OpenClaw security risks | [Fortune](https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/) |
+| Feb 6, 2026 | Nature: AI chatbots are running amok | [Nature](https://www.nature.com/articles/d41586-026-00370-w) |
+| Feb 4, 2026 | ClawCon SF — 750+ attendees at first community meetup | [Event Page](https://cline.ghost.io/clawcon-sf-clines-1m-open-source-grant-meets-openclaw-builders/) |
+| Jan 30, 2026 | CVE-2026-25253 disclosed — critical 1-click RCE (CVSS 8.8) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-25253) |
+| Jan 30, 2026 | Renamed to "OpenClaw" — crosses 106K stars in 2 days | [OpenClaw Blog](https://openclaw.ai/blog/introducing-openclaw) |
+
+> **Contribute:** Add daily news by submitting a PR to [NEWS.md](NEWS.md). Full naming history and opinion/analysis pieces are also tracked there.
+
+---
+
 ## 📰 Articles & Media
 
 ### Origin Story
@@ -528,14 +606,14 @@ A critical vulnerability (CVSS 8.8) was disclosed January 30, 2026. An attacker-
 | [OpenAI Hires OpenClaw Founder](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) | TechCrunch |
 | [OpenClaw Creator Joins OpenAI](https://fortune.com/2026/02/15/openai-openclaw-ai-agent-developer-peter-steinberg-moltbot-clawdbot-moltbook/) | Fortune |
 | [AI Agent Race Intensifies](https://www.computerworld.com/article/4132725/openai-hires-openclaw-founder-as-ai-agent-race-intensifies.html) | Computerworld |
-| [Chinese AI Models Power Low-Cost Push](https://www.scmp.com/) | South China Morning Post |
-| [OpenClaw and the AI Threshold Effect](https://substack.com/) | Substack |
+| [Chinese AI Models Power Low-Cost Push](https://www.scmp.com/tech/article/3342137/value-money-ai-agent-openclaw-adopts-chinese-models-cost-edge-over-us-rivals) | South China Morning Post |
+| [OpenClaw and the AI Threshold Effect](https://leonisnewsletter.substack.com/p/openclaw-aka-clawdbot-and-the-ai) | Substack (Leonis Newsletter) |
 | [What Product Leaders Should Know](https://medium.com/@ashuashu20691/openclaw-and-the-rise-of-self-hosted-ai-agents-what-product-leaders-should-know-062be95b14da) | Medium |
 
 ### Analysis & Opinion
 
 - [Yahoo Finance: OpenClaw and Why It's Taking Over](https://finance.yahoo.com/news/openclaw-clawdbot-why-taking-over-130000159.html)
-- [Milvus Blog: Complete Guide to the Autonomous AI Agent](https://milvus.io/blog/openclaw-formerly-clawdbot-moltbot-explained-a-complete-guide-to-the-autonomous-ai-agent.md)
+- [Milvus Blog: Complete Guide to the Autonomous AI Agent](https://milvusio.medium.com/openclaw-formerly-clawdbot-moltbot-explained-a-complete-guide-to-the-autonomous-ai-agent-9209659c2b8b)
 - [AIMultiple: Use Cases and Security](https://research.aimultiple.com/moltbot/)
 - [Sapt.ai: Architecture, Security, and Best Practices](https://sapt.ai/insights/openclaw-architecture-security-agentic-ai-best-practices)
 
