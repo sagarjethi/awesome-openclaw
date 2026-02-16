@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e74c3c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lobsterGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e74c3c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)" rx="12" ry="12"/>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  </pattern>
+  <rect width="1200" height="300" fill="url(#grid)" rx="12" ry="12" opacity="0.5"/>
+
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)" rx="1"/>
+
+  <g transform="translate(155, 95) scale(0.14)">
+    <path d="M400 200 C400 150 450 100 500 100 C550 100 600 150 600 200 C600 250 550 320 500 350 C450 320 400 250 400 200Z" fill="url(#lobsterGrad)" opacity="0.9"/>
+    <path d="M460 340 C470 380 480 420 500 450 C520 420 530 380 540 340 C520 355 480 355 460 340Z" fill="#e74c3c" opacity="0.9"/>
+    <path d="M400 180 C370 160 320 130 290 140 C260 150 250 180 270 200 C290 220 330 210 350 200 C370 190 390 185 400 180Z" fill="url(#lobsterGrad)" opacity="0.9"/>
+    <path d="M290 140 C275 120 250 110 240 130 C230 150 250 165 270 160" fill="#ff6b6b" opacity="0.8"/>
+    <path d="M600 180 C630 160 680 130 710 140 C740 150 750 180 730 200 C710 220 670 210 650 200 C630 190 610 185 600 180Z" fill="url(#lobsterGrad)" opacity="0.9"/>
+    <path d="M710 140 C725 120 750 110 760 130 C770 150 750 165 730 160" fill="#ff6b6b" opacity="0.8"/>
+    <circle cx="475" cy="140" r="12" fill="#f0f6fc"/>
+    <circle cx="525" cy="140" r="12" fill="#f0f6fc"/>
+    <circle cx="478" cy="138" r="6" fill="#0d1117"/>
+    <circle cx="528" cy="138" r="6" fill="#0d1117"/>
+    <path d="M470 120 C460 80 440 50 420 30" stroke="#ff6b6b" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M530 120 C540 80 560 50 580 30" stroke="#ff6b6b" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M430 260 C410 280 390 300 370 310" stroke="#e74c3c" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M440 280 C420 300 400 320 380 330" stroke="#e74c3c" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M570 260 C590 280 610 300 630 310" stroke="#e74c3c" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M560 280 C580 300 600 320 620 330" stroke="#e74c3c" stroke-width="5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <text x="630" y="130" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="bold" fill="#f0f6fc" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">
+    Awesome OpenClaw
+  </text>
+
+  <text x="630" y="190" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8b949e" text-anchor="middle" dominant-baseline="middle" letter-spacing="1">
+    The Ultimate Curated Resource Guide for the Open-Source AI Assistant
+  </text>
+
+  <line x1="350" y1="230" x2="910" y2="230" stroke="#21262d" stroke-width="1" opacity="0.6"/>
+
+  <text x="630" y="260" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" letter-spacing="3">
+    TOOLS  ·  SKILLS  ·  TUTORIALS  ·  USE CASES  ·  SECURITY
+  </text>
+
+  <rect x="0" y="297" width="1200" height="3" fill="url(#accent)" rx="1"/>
+
+  <circle cx="50" cy="50" r="3" fill="#ff6b6b" opacity="0.4"/>
+  <circle cx="1150" cy="50" r="3" fill="#ff6b6b" opacity="0.4"/>
+  <circle cx="50" cy="250" r="3" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="1150" cy="250" r="3" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="100" cy="80" r="2" fill="#3fb950" opacity="0.3"/>
+  <circle cx="1100" cy="80" r="2" fill="#3fb950" opacity="0.3"/>
+  <circle cx="80" cy="220" r="2" fill="#d2a8ff" opacity="0.3"/>
+  <circle cx="1120" cy="220" r="2" fill="#d2a8ff" opacity="0.3"/>
+</svg>
